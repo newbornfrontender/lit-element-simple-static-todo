@@ -10,7 +10,7 @@
   "scripts": {
     "format:list": "prettier --list-different **/*.{html,css,js,json,md,prettierrc}",
     "format:write": "prettier --write **/*.{html,css,js,json,md,prettierrc}",
-    "start": "polymer serve",
+    "serve": "polymer serve",
     "build": "polymer build"
   },
   "devDependencies": {
