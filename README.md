@@ -1,2 +1,36 @@
-# lit-element-simple-static-todo
+<h1 align="center">Simple Lit DoDo</h1>
+
 Простой ToDo на LitElement (static properties getters)
+
+<h2 align="center">Команды</h2>
+
+```
+$ yarn <название команды>
+```
+
+<table>
+  <thead>
+    <tr>
+      <th>Команда</th>
+      <th width="100%">Описание</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <code>serve</code>
+      </td>
+      <td>Запуск сервера для разработки</td>
+    </tr>
+    <tr>
+      <td>
+        <code>build</code>
+      </td>
+      <td>Сборка проекта</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 align="center">Лицензия</h2>
+
+[MIT](/LICENSE)
