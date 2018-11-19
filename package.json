@@ -6,5 +6,13 @@
   "repository": "https://github.com/newbornfrontender/lit-element-simple-static-todo.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "polymer-cli": "^1.9.1"
+  },
+  "dependencies": {
+    "@polymer/lit-element": "^0.6.3",
+    "@webcomponents/webcomponentsjs": "^2.2.0",
+    "lit-html": "^0.13.0"
+  }
 }
