@@ -1,0 +1,10 @@
+{
+  "name": "lit-element-simple-static-todo",
+  "version": "1.0.0",
+  "description": "Простой ToDo список на LitElement (static properties getters)",
+  "main": "index.js",
+  "repository": "https://github.com/newbornfrontender/lit-element-simple-static-todo.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
