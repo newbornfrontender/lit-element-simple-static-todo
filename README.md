@@ -18,6 +18,12 @@ $ yarn <название команды>
   <tbody>
     <tr>
       <td>
+        <code>format</code>
+      </td>
+      <td>Форматирование кода</td>
+    </tr>
+    <tr>
+      <td>
         <code>serve</code>
       </td>
       <td>Запуск сервера для разработки</td>
