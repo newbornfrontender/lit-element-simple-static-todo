@@ -7,6 +7,12 @@
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "format:list": "prettier --list-different **/*.{html,css,js,json,md,prettierrc}",
+    "format:write": "prettier --write **/*.{html,css,js,json,md,prettierrc}",
+    "start": "polymer serve",
+    "build": "polymer build"
+  },
   "devDependencies": {
     "polymer-cli": "^1.9.1",
     "prettier": "^1.15.2"
