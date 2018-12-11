@@ -1,6 +1,6 @@
 <h1 align="center">Simple Lit DoDo</h1>
 
-Простой ToDo список на LitElement (static properties getters)
+Простой ToDo список на LitElement (static properties getters) (не завершено)
 
 <h2 align="center">Команды</h2>
 
